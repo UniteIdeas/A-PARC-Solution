@@ -1,0 +1,5 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\bin\x64\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\bin\x64\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\x64\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\x64\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\x64\Debug\TextClassification.Common.csprojResolveAssemblyReference.cache

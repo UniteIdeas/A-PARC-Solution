@@ -1,0 +1,13 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\EntityFramework.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\x64\Debug\TextClassification.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\x64\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\x64\Debug\TextClassification.Repository.pdb

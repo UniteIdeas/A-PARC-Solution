@@ -1,0 +1,1911 @@
+﻿<Collection name="Root" type="System.Collections.Generic.List`1[[TextClassification.Model.LuceneQuery, TextClassification.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <Properties>
+    <Simple name="Capacity" value="512" />
+  </Properties>
+  <Items>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2600" />
+        <Simple name="GeneralCode" value="26" />
+        <Simple name="Text" value="regen* zon* wind storm motregen sneeuw hagel overstroming dijkdoorbraak natuurramp*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2700" />
+        <Simple name="GeneralCode" value="27" />
+        <Simple name="Text" value="brand* verkeersongeval bedrijfsongeval ongeval*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2800" />
+        <Simple name="GeneralCode" value="28" />
+        <Simple name="Text" value="kunst entertainament" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2900" />
+        <Simple name="GeneralCode" value="29" />
+        <Simple name="Text" value="sport* recrea* voetbal* tennis* hockey* basketball* volleybal* schaats* hardlo* fiets*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="3000" />
+        <Simple name="GeneralCode" value="30" />
+        <Simple name="Text" value="&quot;grote/innig droef*/verdriet*/geliefde&quot; overleden begrafenis crematie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="3100" />
+        <Simple name="GeneralCode" value="31" />
+        <Simple name="Text" value="kerk* religie* godsdienst* christen* islam* boeddhism* joden* hindoe* sjint* tao* natuurgodsdienst*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="9900" />
+        <Simple name="GeneralCode" value="99" />
+        <Simple name="Text" value="tragi* &quot;human interest&quot; entertainment soap" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="100" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="economie economisch* &quot;economische groei&quot; &quot;economische vooruitzichten&quot; conjunctuur recessie &quot;economische crisis&quot; kredietcrisis bankencrisis stagnatie begroting begrotingsbeleid rijksbegroting inkomensverdeling welvaartsverdeling &quot;verdeling/nivellering inkomens/inkomen/welvaart&quot;~10 nivellering &quot;stimulering* economie/economisch*&quot;~10 &quot;groei/trend/ontwikkeling/krimp economie/economisch* Nederland* Europa/EU/EU-landen/Eurozone&quot;~20 &quot;economie/economisch* groei/krimp/gevolgen/consequenties werkloosheid/beroepsbevolking&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="101" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="inflatie* anti-inflatie prijsindex gezinsconsumptie &quot;consumptieve bestedingen&quot; &quot;kosten van levensonderhoud&quot; prijs* prijzen loon* lonen koopkracht*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="103" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="werkloos* werkloze* werkloosheid*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="105" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="overheidsschuld* staatsschuld* overheidstekort* bezuinig* begroting* zalm-norm" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="107" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="belasting* &quot;collectieve lasten&quot; lastenver* omzetbelast* btw vennootschapsbelast* inkomstenbelast* loonbelast* vermogensbelast* dividenbelast* hypotheekrenteaftrek overdrachtsbelast* huurwaardeforfait ozb taxatie* gemeentebelasting* waterschapsbelast* hondenbelast* accijn* wegenbelast* motorrijtuigenbelast* milieubelast* kansspelbelast*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="108" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="bedrijfsleven industri* vestigingsklimaat herstructurering reorganisatie* bedrijfssluiting* bedrijfssanering overheidssteun" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="110" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="prijscontrole prijsstabiliteit inflatie prijsstijging*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="199" />
+        <Simple name="GeneralCode" value="1" />
+        <Simple name="Text" value="groeivoet arbeidsinkomensquote &quot;nationaal product&quot; &quot;economie/economisch* consequentie*/gevolgen/effect/effecten milieu/milieubeleid&quot;~20 &quot;economie/economisch* schade/consequenties/effecten/omzetverlies file/files/fileproblematiek&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="200" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="burgerrecht* immigra* integratie asielzoeker* vluchteling*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="201" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="(discriminatie AND ras huidskleur afkomst) rassendiscriminatie discriminer* racisme racistisch* antisemi* fascis* nazi* neo-nazi* nationaal-socia* xenofob* vreemdelingenhaat" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="202" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="(discriminatie AND (sexe sekse gender geslacht vrouwen vrouw homo homo’s lesbo’s lesbiennes werkvloer sollicitaties)) seksisme &quot;glazen plafond&quot; vrouwenhaat &quot;seksuele intimidatie&quot; verkrachting* aanranding*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="203" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="vrouwenemancipatie homo-emancipatie emancipatie* feminis* &quot;positieve discriminatie&quot; (&quot;gelijke kansen&quot; AND (vrouw vrouwen homo homo’s)) &quot;gelijke behandeling&quot; burgerrecht*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="204" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="leeftijdsdiscriminatie (discriminatie AND leeftijd ouderen jongeren)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="205" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="discriminatie AND (gehandicapte* minder-valide rolstoelgebruiker* ziekte* blind* slechtziend* doof* dove*)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="206" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="kiesrecht stemrecht ((recht AND stem*) AND (buitenland* nationaliteit verblijfsstatus leeftijd psychiatr*)) districtenstelsel voorkeursstem* kiesgerechtigde* censuskiesrecht referendum plebisciet volksinitiatief opkomstplicht opkomstdrempel oproepkaart vrouwenkiesrecht" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="207" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="&quot;meningsuiting/mening/overtuiging/levensbeschouwing/demonstratie vrijheid&quot;~10 meningsvrijheid uitingsvrijheid demonstratievrijheid" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="208" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="&quot;koppeling persoonsgegevens/databestanden/sofinummer/persoonsregistratie/medische/dossier/strafblad&quot;~10 privacy* identificatieplicht &quot;openbaarheid van bestuur&quot; &quot;opslag DNA&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="211" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="&quot;privaat/private/recht/particulier/particuliere/vrijheid bezittingen/bezit/eigendom&quot;~10 privé-bezit privé-vermogen* eigendomsrecht*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="212" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="&quot;vrijheid/recht/grondrecht/grondrechten odsdienst/religie/geloof/geloofsovertuiging/belijden/belijdenis/processie/kerkbezoek/kerkgang/moskeebezoek/islamschool/islamscholen/godsdienstles/godsdienstlessen/processie/moskee/hoofddoekje/hoofddoekjes/chador/nikab/gezichtssluier/encycliek/sharia/bijbel/torah/quran/koran/testament/joods-christelijk&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="230" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="immigra* asielzoeker* vreemdeling* vluchteling* allochto* &quot;etnische AND minderheid/minderheden&quot; uitzettingsbeleid toelatingsvoorwaarden naturalisatie inburgering* inkomenseis &quot;dubbel paspoort/paspoorten/nationaliteit&quot; gezinshereniging* multiculture* importbruid* uithuwelijk* segregatie verblijfsvergunning* getto" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="299" />
+        <Simple name="GeneralCode" value="2" />
+        <Simple name="Text" value="burgerrechten grondrechten" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="300" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="gezondheid* ziek* volksgezondheid &quot;begroting gezondheidszorg/volksgezondheid&quot;~20 &quot;advies* gezondheid*&quot;~10 &quot;prioriteit gezondheid*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="301" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;stelselhervorming/hervorming/reorganisatie/stelselwijziging/marktwerking/privatisering/fusie/fusies/schaalvergroting/grootschalig/grootschalige/automatisering/efficiency/doelmatigheid/efficiëntie gezondheidszorg/zorg/zorgsector/zorgstelsel/medische/ziekenhuis/ziekenhuizen/zorgaanbieders/mantelzorg/awbz/ziekenfonds/ziekenfonds/ziektekostenverzekering/ziektekostenverzekeraar/ziektekostenverzekeraars&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="302" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="ziektekosten ziektekostenverzekering* &quot;eigen bijdrage&quot; awbz zorgtoeslag &quot;behandeling in buitenland&quot; ziekenfonds basisverzekering &quot;aanvullende verzekering/verzekeringen&quot; acceptatieplicht zorgtoeslag pgb &quot;persoonsgebonden budget&quot; ziektekostenpremie* no-claim no-claim-korting &quot;recht/aanvraag/aavrage/tegemoetkoming/vergoeding/verzekering/uitbetaling/aanbetaling/ziekenfondspakket/awbz-pakket/ziektekostenpolis dagopvang/thuiszorg pil/anti-conceptie/erectiepil/ziekenhuis/ziekenhuisvervoer/ziekenvervoer/ambulance/ambulances/alfahulp/mantelzorg&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="320" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="abortus vruchtafdrijving euthanasie stamcelonderzoek &quot;hulp/assistentie/toelaten/passieve zelfdoding/zelfmoord&quot;~10 stamcelonderzoek &quot;genetische/genetisch/dna manipulatie/onderzoek&quot; &quot;medisch/medische ethiek/ethische/tuchtrecht/tucht/kwaliteitseisen/beroepscode/toezicht&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="321" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;farmaceutische/farmaceutisch industrie/firma/bedrijf/bedrijven&quot;~10 &quot;vergunning/toelating/toestaan/goedkeuring medicijn/medicijnen/geneesmiddel/geneesmiddelen&quot; donor donorcodicil orgaantransplantatie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="322" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;organisatie/faciliteiten/facilitering/voorzieningen/samenwerking/planning/coördinatie/verdeling/toedeling/regulering/bouw/nieuwbouw/fusie/fusies ziekenhuis/ziekenhuizen/gezondheidszorg/zorg/instellingen/ambulancediensten/thuiszorgorganisatie/ggd&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="323" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;tarieven/vergoeding/vergoedingstarieven/prijs/prijzen/honorarium/honoraria/loon/beloning/salaris/geschillen*/afspraak/afspraken/overleg/beraad/vergadering huisarts/huisartsen/specialist/specialisten/tandarts/tandartsen/apotheker/apotheker/ziektekostenverzekeraar/ziektekostenverzekeraars/ggd&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="324" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;medisch*/arts*/specialist*/verpleegkundige* falen/fout*/misser*/nalatigheid/schade*/schande/aansprakelijkheid&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="325" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;studie/opleiding/opfriscursus/cursus/training/practicum/practica medicijnen/geneeskunde/gezondheidszorg/gezondheidswetenschap/tandarts/verpleeg*/verpleg*/arts/dokter/huisarts/specialist/chirurg/co-assistent&quot;~1" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="326" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;regulering/regelgev*/wetgeving/maatregel*/afspra*/overleg/vergadering* apothe*/tandarts*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="327" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="wachtlijst wachtlijsten" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="331" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="vaccinatie bevolkingsonderzoek gezondheidsonderzoek &quot;informatie/voorlichting/preventie/voorkoming/voorkomen ziekte/ziektebeeld/griep/infectie/virus/bacterie/kanker/borstkanker/baarmoederhalskanker/longkanker/asbest/prostaatkanker/alzheimer/reuma/sclerose/zwangerschap/zwanger/parkinson/astma/diabetes/suikerziekte/vetzucht/anorexia/overgewicht/hiv/herpes/soa/aids/blessure/blessures/sportblessure/sportblessures/besmetting/epidemie/geneesmiddel/geneesmiddelen/medicijn/medicijnen&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="332" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="wiegendood wiegedood kindersterfte kinderziekte &quot;seksuele voorlichting&quot; mazelen bof &quot;rode hond&quot; kinkhoest waterpokken roodvonk difterie bmr-prik dktp-prik dktp dtp-prik kindervaccinatie inenting* rijksvaccinatie* vaccinatie* schooltandarts schoolarts schoolmelk" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="333" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="psychiatri* schizofre* neurose psychose psychotisch aboulie ocd persoonlijkheidsstoornis* (psych* AND depressi*) adhd add pdd-nos &quot;psychische aandoening*&quot; dement* alzheimer asperger autist* autisme riagg zelfdoding suïcide ggz antipsych* antidepressiv* &quot;gedwongen behandeling/opname&quot; DSM-IV ouderenpsychiatrie ziekenhuispsychiatrie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="334" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;langdurig*/terminaal/terminale zorg*/ziek*/patiënt*&quot; revalidatie* gehandicapte* invalide* minder-validen thuiszorg thuishulp mantelzorg verpleeghui* verzorgingstehui*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="341" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="tabak* nicotine* sigaret* sigaar sigaren roken rookverbod rookvrij*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="342" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="alcohol* drank* bier wijn jenever brandewijn wodka breezer* indrinken bezopen ladderzat" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="343" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;verslaving/verslaafd*/gebruiker*/afkick*/onthouding/stop*/verstrekking/zorg/bestrijd*/opsporing/vangst/beslag drugs/partydrug*/marihuana/wiet/nederwiet/lsd/xtc/heroïne/coke/cocaïne/methadon&quot;~20 &quot;opvang/behandeling verslaafd*/drugsgebruiker*/alcoholist*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="398" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="&quot;onderzoek/research/ontwikkeling/academisch geneeskundig*/medisch*/patiënt*/gezondheidszorg/gezondheidswetenschap*/medicijnen/geneesmiddel*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="399" />
+        <Simple name="GeneralCode" value="3" />
+        <Simple name="Text" value="alternatieve genees* astrolog* tai-chi acupunctuur* homeopa* antroposofi* osteopathi* hypnose paranorma*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="400" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="landbouw* visserij* agrarisch*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="401" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="&quot;export*/import*/uitvoer*/invoer* landbouw*/melk*/graan*/granen/tarwe/spelt/rogge/gerst/haver/boekweit/griesmeel/mout/bloem*/voeder*/veevoer*/fruit/groente*/hop/olijfolie*/zonnebloemolie/olijven*/vezelvlas/hennep*/vee/veeteelt/varkens*/koeien*/schapen*/geiten*/paarden*/rundvlees*/wijn*/gevogelte/&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="402" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="landbouwsubsidie* melkquot* landbouwquot* boterberg &quot;subsidie*/steun*/bijstand*/lastenverlicht*/belasting*/erfpacht/bestemmingsplan*/streekplan*/opkoopregel* landbouw*/boer*/tuinder*&quot; &quot;tante agaath&quot; ruilverkaveling &quot;gemeenschappelijk landbouwbeleid&quot; &quot;Europese landbouwbeleid&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="403" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="voedselkwaliteit &quot;inspectie/controle/toezicht/keurmerk/bacterie/schimmel/hygiëne voedsel/groente*/fruit/vlees/slachterij*/kip*/ei*&quot; &quot;genetisch gemodificeerd*&quot;~10 salmonella* additieven conserveermiddel* zoetstof*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="404" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="landbouwvoorlichting &quot;voorlicht*/promot*/informatie/marketing/brochure*/ landbouw*/melk*/graan*/granen/tarwe/spelt/rogge/gerst/haver/boekweit/griesmeel/mout/bloem*/voeder*/veevoer*/fruit/groente*/hop/olijfolie*/zonnebloemolie/olijven*/vezelvlas/hennep*/vee/veeteelt/varkens*/koeien*/schapen*/geiten*/paarden*/rundvlees*/druiven*/wijn*/gevogelte/ruilverkaveling/streekplan/bestemmingsplan/bedrijfsuitbreid*/bedrijfssaner*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="405" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="dierziekte* plantenziek* &quot;ziekte/gezondheid*/conditie/infectie/schimmel*/pesticide*/bestrijdingsmiddel*/onkruid/landbouwgif* landbouw*/melk*/graan*/granen/tarwe/spelt/rogge/gerst/haver/boekweit/griesmeel/mout/bloem*/voeder*/veevoer*/fruit/groente*/hop/olijfolie*/zonnebloemolie/olijven*/vezelvlas/hennep*/vee/veeteelt/varkens*/koeien*/schapen*/geiten*/paarden*/rundvlees*/druiven*/wijn*/gevogelte&quot;~20 veearts* MKZ BSE &quot;mond- klauwzeer&quot; sars &quot;gekke koeienziekte&quot; hondsdolheid varkenspest &quot;antibiotica veevoer&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="406" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="&quot;regulering/wetgeving/maatregel*/pijn/onverdoofd/stro/modderpoel/bewegingsruimte/leefruimte/bloedarmoede/bloedwaarden/hygiëne/onmenselijk*/mensonwaardig* dieren/dier/kalf/kalveren/koe/koeien/varken*/schaap/schapen/geit/geiten&quot; &quot;levend* ganzenpluk/villen/slachten/electrocuteren&quot;~10 bio-industrie &quot;blank kalfsvlees&quot;~4 diervriendelijk dierwaardig dierenwelzijn dierenbescherming &quot;beleid/regulering/wetgeving/maatregel*/controle/klepcontrole/inspectie veevervoer*/veetransport*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="407" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="minaz mestbeleid mestopslag &quot;grondwater mineralen&quot;~10 &quot;milieu*/bodemverontreiniging*/luchtverontreiniging*/waterverontreiniging*/vervuiling veehouderij/landbouw/veeteelt/bio-industrie/boeren/tuinders/platteland/agrarisch*/oppervlaktewater/beken&quot;~10 &quot;biologische landbouw/boer*&quot;~3 groenbemesting kunstmest" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="408" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="visserij* visquot* visdagen visvergunning* vissers mosselvisser* schelpdiervisser* mosselvangst visvangst overbevissing visserijzone* zoetwatervisser* brakwatervisser* zeewatervisser* beroepsvisser* sportvisser* diepzeevisser* binnenvisser* kustvisser*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="498" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="&quot;genetisch* voedsel/mais/soja/plant*/gewas*&quot;~10 landbouwonderwijs landbouwonderzoek modelboerderij landbouwvoorlichting &quot;landbouw/agrarisch* universiteit/hogeschool&quot;~10 &quot;landbouwkund*/onderzoek*/wetenschap*/proef/proev* ammoniak/mest*/biotechnologie/veredeling/biodiversiteit/mineraal*/mineral*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="499" />
+        <Simple name="GeneralCode" value="4" />
+        <Simple name="Text" value="melkfabriek veevoerbedrijf veevoeder tuinier* hobbyboer* boerenbond cbtb knbtb &quot;bedrijfsbeëindiging landbouw*/boeren*&quot;~10 melkplas boterberg graanberg" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="500" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="arbeid* loon* lonen* &quot;ontwikkeling*/vooruitzicht* arbeidsmarkt/werkloosheid*/vacatures/werkgelegenheid&quot;~10 &quot;banen/vacatures/werkloosheid*/werkgelegenheid groei/toename/stagnatie/kentering/afname/ontwikkeling/neerwaarts*/opwaarts*/beneden/boven/beroerd/slecht/slechte/gunstig&quot;~20 banengroei beroepsbevolking" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="501" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="arbeidsomstandigh* werkomstandigh* &quot;werkgerel* klachten/vermoeidh*&quot;~10 arbeidsongeval* arbeidsongeluk* bedrijfsongeval* arbeidsongeluk* arbeidsongeschikt* &quot;veiligheidsvoorschriften werk*/kanto*/bedrijf*/apparatuur/machin*/bouw&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="502" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="&quot;activer*/trainen*/scho*/cursus* werkloos*/werkloze*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="503" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="pensioenopbouw eindpensioen middenpensioen thuiswerken lease-auto* reiskostenvergoeding* &quot;secundaire/tertiaire arbeidsvoorwaarde*&quot;~10 &quot;variabele werktijd*&quot;~3 bonus* sabbatical spaarloon* levensloopregeling &quot;gouden handdruk&quot; &quot;dertiende maand&quot; &quot;code Tabaksblat*&quot; topinkomen* zwangerschapsverlo* ouderschafsverlo*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="504" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="vakbond* cao fnv cnv mhp vno vno-ncw &quot;sociale partners&quot; werknemers* werkgevers* poldermodel polderen gepolder staking* arbeidsconflict* &quot;onderhandeling*/overeenkomst/overeenstemming/contract/gesprek*/vergader*/bijeen loonmatiging/pensioen*/lonen/mimimumloon/arbeidskosten/arbeidstijdverkorting/atv/ontslag*/sollicitatieverpl*/afvloeiïngsregel*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="505" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="arbeidsomstandigh* werkomstandigh* &quot;werkgerel* klachten/vermoeidh*&quot;~10 arbeidsrecht arbo" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="506" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="jeugdwerkloosheid kinderarbeid schoolverlater* jeugdloon aanvangsloon bijscholing &quot;jongere*/jongens/meisjes/jeugd* werktijd*/zomerkamp*/cursus*/werkervaring*/vakantiewerk/vakantieba*/uitzendbureau/uitzendbaan/uitzendbanen/uwv/cwi&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="508" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="&quot;werkgel*/werkloosheid*/lonen/salarissen/arbeidsvoorwaarden/personeelstekort/arbeidsoverschot/ontslag*/staking* detailhandel/retailers/bouw/metaalindustrie/automatisering/industrie/nutsbedrijven/elektriciteitsbedrijven/bouwnijverheid/horeca/groothandel/catering/telecom/vervoer/banken/verzekeraars/dienstverlen*/onderwijs/gezondheidszorg/zorg/toerisme&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="509" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="pensioen* oudedagsvoorzien* pre-pensioen vut &quot;vervroegde uittreding&quot; aow" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="530" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="&quot;werk*/arbeid*/salaris* allochto*/gastarbeider*/asielzoeker*/vluchteling*/immigrant*/migrant*/buitenlander*/marokk*/turk*/surina*/antill*/kaapverdi*/joegosla*/kroat*/bosnië&quot;~10 kennisimmigranten &quot;economische vluchtelingen&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="599" />
+        <Simple name="GeneralCode" value="5" />
+        <Simple name="Text" value="dag arbeid~0.3 ESF &quot;europees sociaal fonds&quot; werkethiek arbeidsethos &quot;individualisme arbeid/werk/baan/banen/werknemer*/werkgever*/arbeidsethos&quot;~20 24-uurseconomie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="600" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="onderwij* cultuur kunst onderwijsniveau &quot;onderwijs niveau&quot;~5 &quot;budget/begroting/subsidie onderwijs/scholen/school&quot;~20 &quot;onderwijs/school/scholen regeldruk/regellast/bureaucrati*&quot;~20 onderwijssubsidie &quot;onderwijs/scholen/school Nederland* buitenland/europa/europe*/landen&quot;~20 &quot;gratis schoolboeken&quot;~5 onderwijskwaliteit &quot;kwaliteit onderwijs/school/scholen&quot;~20 onderwijsconferentie &quot;conferentie onderwijs&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="601" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;hoger*/academi* onderwijs/school/beroepsonderwijs/opleiding/graad/&quot;~2 universiteit* hogescho* hbo &quot;university college&quot; master* bachelor* student* studiefinanciering studierichting* vsnu kma knil &quot;graduate school&quot; studiebeur* collegegeld*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="602" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;lager*/primair* onderwijs/school&quot;~2 schoolgeld schoolexamen* cito-toets basisonderwijs basisschool kleuteronderwijs kleuterschool peuteronderwijs vmbo mavo regio-college roc praktijkonderwijs beroepsonderwijs mbo &quot;regiona*/agrari* opleidingscentr*&quot;~2 &quot;beroep* leerweg*&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="603" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="ongeschoold* analfabet* schoolverlat* spijbel* bijscholing &quot;onderwijs/cursus*/opleid* kansarm*/allochto*/immigrant*/asielzo*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="604" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;beroep*/onderwijs/school/middelba*/vmbo/mbo stage/werkervaring*/praktijk*/training*/snuffelstage/maatschappij&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="605" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="privé-onderwijs luzac &quot;bijzonder onderwijs&quot; schoolstrijd scholenstrijd &quot;christelijk*/bijzonder/openbaar/vrijheid onderwijs/school/scholen&quot;~10 &quot;school/scholen grondslag/bijbel&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="606" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;zwakke leerling*&quot; &quot;remedial teaching&quot; &quot;speciaal onderwijs&quot; &quot;speciaal beroepsonderwijs&quot; sbo &quot;leerling*/scholier* handicap*/gedragsstoornis*/leerachterstand&quot;~10 &quot;moeilijk leren*&quot; mlk-onderwijs" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="607" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="kennisnet surfnet &quot;excellen* onderw*/universit*/onderzoek*/master*&quot; topuniversiteit* topmaster* &quot;uitblinkend* student*&quot; KB bibliothe* &quot;ICT onderwijs&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="609" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;behoud nationaal erfgoed&quot; BKR &quot;subsidie*/sponsor* kunst*/theater*/muse*/opera/schouwburg*/voorstelling*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="698" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="&quot;onderz*/rapport/nota onderwijskwaliteit/onderwijsverbetering&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="699" />
+        <Simple name="GeneralCode" value="6" />
+        <Simple name="Text" value="avondscho* &quot;medezeggenschap leerling*/school*/scholen&quot; &quot;school ouder*&quot;~10 ouderraad onderwijsstatistiek* &quot;cijfers/prestaties/prestatie/functioneren/resultaten onderwijs/school/scholen&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="700" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="(milieu* NOT socia*) &quot;milieu* schade/budget/begroting/controle/rapportagefraude/verontreiniging/vervuiling/verniel*/destructie/conditie/kwaliteit*/verpest*/verbetering/bescherm*/duurzaam/duurzame&quot;~20 milieucontrole milieufraude milieudelict* NOT (milieutech milieufd milieuwaterfonds &quot;ASN Milieufonds&quot;)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="701" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="drinkwater* watervoorziening grondwater &quot;toevoeg*/toegevoegd* fluoride*&quot;~10 dioxine loodvervuiling" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="703" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="milieudienst* vuilnisbelt stortplaats vuilophaaldienst* afvalverwerking* &quot;illega* afval*/dump*/stort*/vuil*/afvoer*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="704" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;gevaar*/dreig*/protest*/vervuil* stof*/chemicä*/chemisch*/ammoniak/afval/vuilnisbelt*&quot;~10 kernafval &quot;nucle* afval&quot;~10 pesticide*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="705" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="luchtvervuiling broeikaseffect CFK* luchtverontreiniging roetdeeltjes lichtvervuiling luchtkwaliteit &quot;aantast*/proble* ozonlaag&quot; auto-emissie* fijnstof &quot;uitlaat*/uitstoot diesel*&quot; sigarettenrook" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="707" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="recycl* hergebruik &quot;terug* afval*&quot;~10 schroot* &quot;oud ijzer&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="708" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="asbest* radon* &quot;leefklimaat/luchtkwaliteit/lood* gebouw*/kanto*/huis/huizen/schuur/schuren/fabriek*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="709" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;bescherm*/bedreig* flora/fauna/dier*/plant*/otter/korenwolf/natuurgebied*/uil*/habitat/bos&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="710" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;verontrei*/vervuil*/dump*/boring*/boren/gaswinning zee/noordzee/waddenzee/kustwater*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="711" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;bescherm*/bedreig*/beheer wateropslag/beek*/beken*/zoetwater*&quot;~10 waterwingebied* zoetwaterreservoir* bodembescherming" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="712" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;technologisch* risico*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="721" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="&quot;bescherming dier*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="798" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="RIVM MNIP satellietonderzoek &quot;onderzoek klimaat*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="799" />
+        <Simple name="GeneralCode" value="7" />
+        <Simple name="Text" value="milieu* onderzoekscommissie*/commissie*~20 &quot;milieu* nucleair/Tsjernobyl/kernramp*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="800" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="energiebeleid energievoorziening energienetwerk energiebehoefte &quot;energiebedrij*/energiesector/energienetwerk*/elektriciteitsnet* splitsing/splitsen/privatiser*&quot;~20 energiebelasting &quot;energie belasting/accijns&quot;~10 &quot;prijs/lasten/kosten energie&quot;~10 energieprijs &quot;energie zekerheid/garantie&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="801" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="kernenergie nucleair* splijtstof* uranium* kernreactor* radioacti*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="802" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="elektrici* elektrisch* stroomstoring*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="803" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="gas* olie*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="805" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="steenko* bruinko* kolen" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="806" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="windenergie zonne-energie zonnepane* &quot;alcohol brandstof*/auto/rijden&quot;~10 &quot;energie* biomassa/mais&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="807" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="WKK zonnepane* &quot;alternatie* energie*&quot;~10 energiebesparing &quot;bespa* energie&quot;~10 spaarlamp* spaarlamp* &quot;laag energieverbruik&quot; windenergie windmolen* carpoolen brandstofbesparing &quot;nieuwe rijden&quot; &quot;zuinig*/energielabel* auto/voertuig*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="899" />
+        <Simple name="GeneralCode" value="8" />
+        <Simple name="Text" value="&quot;energiebedrij*/energiesector privatiser*/afsplitsing/splitsen/splitsing/overname*/aankoop/overgenomen&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="900" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="migratie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="929" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="&quot;werkloze/werkloos/hangjongere*/arbeidslo*/arbeidsmarkt/werk allocht*/turk*/marok*/surin*/migrant*/immigrant*/asielzoek*/vluchteling*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="930" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="&quot;recht*/plicht* migrant*/immigra*/asielzoeker*/vluchteling*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="932" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="naturalisatie &quot;dubbel paspoort*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="932" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="vluchteling* asielzoeker*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="933" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="&quot;uitwijzing/uitzetting/heenzending/terug* asielzoek*/migrant*/immigra*/vluchteling*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="998" />
+        <Simple name="GeneralCode" value="9" />
+        <Simple name="Text" value="&quot;onderzoek*/research*/universiteit energie*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1000" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="verkeersbeleid vervoersbeleid vervoer* transportsector transporteur* transportbedrij* motorrijtuigenbelasting bpm rekeningrijden &quot;verkeer* begroting&quot;~10 verkeers* slurptax" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1001" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="&quot;openbaar vervoer&quot; trein bus streekvervoer taxi" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1002" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="wegeninfrastructuur wegennet bruggen tunnel* snelweg* autos* file* tolheffing rekeningrijden parkeer* parkeren verkeersregel* &quot;maximum snelheid&quot; bewegwijzering vrachtvervoer*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1003" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="vliegveld* vliegverkeer schiphol luchthaven* &quot;tax free&quot; vliegtuig* luchtverkeer* vliegmaat* KLM luchtruim verkeerstoren luchthaven" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1005" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="spoorweg* trein* rails goederenwagon* locomot* ns-station* dienstregeling &quot;vertrag* spoor*/trein*&quot;~10 betuweroute hsl treinstaking*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1006" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="motorvoertuig* rijbewij* bromfiets* scooter* apk vrachtwagen* automob*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1007" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="schip schepen scheepvaart* haven* jachthaven* scheepswer*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1008" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="scheepbouw scheepsbouw Verolme" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1010" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="infrastructu* &quot;openbare werken&quot; wegenaanleg &quot;aanleg/verbreding/uitbreiding weg*/dijk*/spoor*/metro*/tram*/verbinding/tunnel*/haven/schiphol/maasvlakte/zeehaven*&quot; dijkverzwaring deltaplan betuwelijn hsl noord-zuid-verbinding hoge-snelheidslijn hanzelijn" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="0" />
+        <Simple name="GeneralCode" value="0" />
+        <Simple name="Text" value="monetair* geldmarkt* valuta* goudvoorraad staatslening* disconto* rente* wisselkoers* kapitaalmarkt &quot;centrale bank&quot; ECB DNB" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1098" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="&quot;onderzoek*/research*/universiteit verkeer*/vervoer*/automobiliteit*/uitlaatgas*/file*/tolpoort*/rekeningrijden&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1099" />
+        <Simple name="GeneralCode" value="10" />
+        <Simple name="Text" value="scooter* scooterrijbewijs bromfietscertifica* brommercertifica* brommerrijbewijs" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1200" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="justitie rechtspr* criminaliteit &quot;officier justitie&quot;~3 &quot;openbaar ministerie&quot; advocaat advocatuur kantongerecht gerechtshof &quot;hoge raad&quot; justitie &quot;sociale veiligheid&quot; &quot;zinloos geweld&quot; straatgeweld straatroof beroving beroven diefstal criminaliteit intimidatie &quot;bedreig*/intimidatie wapen/mes/vuurwapen*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1201" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="&quot;openbaar ministerie&quot; &quot;samenwerking veiligheid*/politie*&quot;~10 &quot;driehoek politie/hoofdcommissaris/commissaris&quot;~10 irt-affaire" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1202" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="witteboorden belastingfraude corruptie belastingontduiking &quot;illega* handel/speculatie/verkoop/koop/aanschaf&quot;~10 &quot;handel voorkennis&quot;~10 boekhoudschandaal afpersing &quot;witte boordencriminaliteit&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1203" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="drugshandel hennepteelt narcotica-recherche coffeeshop* drugsgelden" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1204" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="beroepsprocedure strafrecht strafproces* rechtbank kantongerecht &quot;hoge raad&quot; gerechtshof rechter rechter-commissaris" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1205" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="gevangenis* &quot;huis bewaring&quot;~2 tbs isoleercel* vrijlating taakstraf halt-afdoening" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1206" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="jeugdcrim* halt-afdoening opvoedingskamp* &quot;glenn mills&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1207" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="kindermishandeling kinderprost* kinderporno" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1208" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="incest gezinsdrama voogdij opvangtehui* echtscheiding &quot;onder toezicht stelling&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1209" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="wapencontrole wapenbezit pistool vuurwapen*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1210" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="&quot;wetboek strafrecht/strafvordering&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1212" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="prostitu* vrouwenhandel &quot;lover boy*&quot; mensensmokkel" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1213" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="terroris* terreur* staatsondermijnend* collaborateur* landverrader* aivd nctb &quot;nationaal coordinator terrorismebestrijding&quot;~3 &quot;algemene inlichtingen veligheidsdienst&quot;~3 &quot;animal rights&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1214" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="geweld* doodslag moord steekpartij moord*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1230" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="prostitu* vrouwenhandel &quot;lover boy*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1297" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="holleeder endstra mierenet &quot;mink k&quot; &quot;klaas bruinsma&quot; &quot;zwarte cobra&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1299" />
+        <Simple name="GeneralCode" value="12" />
+        <Simple name="Text" value="computercriminaliteit cybercrimin* cybercrime &quot;bedreig*/doodsbedreiging*/intimidatie* e-mail/mail&quot;~10 hacken &quot;diefstal/criminaliteit/stelen/gestolen internet/online/computer/pc&quot;~10 stalking stalken &quot;identiteit*/persoonsgegevens diefstal/fraude/gestolen/stelen internet/online/computer/pc&quot;~10 skimmen skimmer* skimming phishing phishen phisher*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1302" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="bijstand* armoedebestrijding &quot;onderkant samenleving&quot;~3 &quot;koppeling uitkering*&quot; voedselbank* dakloos dakloze* &quot;leger des heils&quot; pauluskerk" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1303" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="pensioen* aow &quot;hulp huishoud*&quot;~10 verzorgingstehui* seniorenkorting* vergrijzing &quot;tafeltje dekje&quot; ziekenhuisvervoer ambulance* WIA WAO arbeidsongeschiktheid" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1304" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="ziektewet wao wia aumbulance* ziekenvervoer ziekenhuisvervoer revalidatieprog* arbeidsongeschiktheid*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1305" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="vrijwilliger* volunteer* &quot;leger des heils&quot; &quot;rode kruis&quot; &quot;vluchtelingenwerk&quot; diaconie diaken diaconaat" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1306" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="jeugdbeleid jeugdzorg* jeugdcentra hangjongeren &quot;maatschappelijke stage&quot; halt jeugdinstituut &quot;hulpverlening jongere*/meisje*/jongen*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1307" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="uitkering* bijstandsuitkering* werkloosheidsuitkering* ww-uitkering wao wia arbeidsongeschiktheid* ziekteverlof ziektewet arbo abp cwi fvp svs uwv &quot;centrum werk inkomen&quot;~4 &quot;uitvoering* werknemersverzekeringen&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1308" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="zwangerschapsverlof ouderschapsverlof zorgverlof" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1309" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="kinderbijslag kinderopvang &quot;naschoolse opvang&quot;~3 peuterspeelza* &quot;zorg arbeid&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1330" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="sociale premie/premies/kwestie*/tolerantie/aangelegenh*/samenhang/cohesie/binding/zekerheid/isolatie~10 segregatie &quot;maatschappelijk* kwestie/nut/welzijn/verdeeldheid&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1399" />
+        <Simple name="GeneralCode" value="13" />
+        <Simple name="Text" value="&quot;sociale dienst* verwijt*/beschuldig*/fout*/falen/faal*&quot;~1a0 schuldsanering* schuldhulpverlening*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1400" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="volkshuisvesting* huisvesting* bewoonbaarheid woningkwaliteit huurwoning* koopwoning* bouwkavel* woningvoorraad huisvestingsbeleid woningbouwbeleid" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1401" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="stadsvernieuwing &quot;leefbaarheid stad/steden/binnenstad&quot; grotestadsproblematiek &quot;renovatie wijk*/woning*&quot;~10 woningrenovatie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1403" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="stadsontwikkeling &quot;grote steden probl*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1404" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="&quot;huisv*/woning* platteland*/buiten/groen&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1405" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="&quot;ontwikkeling/probl*/leegloop/leegstand/wegtrek*/vertrek* regio/platteland/ruraal&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1406" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="&quot;sociale woningbouw&quot; huursubside huurwoning* woningbouwcorporatie* corporatie* huurstijging* woningwetwoning" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1407" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="oorlogsvetera* vietnamvetera* ptss &quot;milit post-traumatisch/stress/depress*/stoornis*&quot;~10 &quot;opvang/huisvesting/ondersteuning/bijstand uitgezonden militair*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1408" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="aanleunwoning* &quot;aangepaste woning*&quot;~10 &quot;bouw bejaardentehu*/verpleegtehu*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1409" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="dakloze* doosloze*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1411" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="koopwoning* &quot;verkoopprij*/koopprij* woning*/huis/huizen&quot;~10 makelaar* overdrachtsbelasting* hypotheekrente*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1499" />
+        <Simple name="GeneralCode" value="14" />
+        <Simple name="Text" value="studentenwoning* studentenhuisvesting kamernood, &quot;kantoor/kantoren leegstand/schaarste&quot;~10 kraakpand* krotopruiming renovatie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1500" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="ondernemingen bedrijf* bedrijven &quot;economische bedrijvigheid&quot; loonkosten &quot;administratieve lasten&quot; investeringsklimaat &quot;verkeer personen/goederen&quot;~10 &quot;akkoord/akkoorden schengen&quot;~3" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1501" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="banken bankwezen bankenstelsel ECB &quot;europese centrale bank&quot; interbancair ING ABN/AMRO Fortis Kas Postbank SNS ASN Binck Alex Reaal DNB &quot;Nederlandse Bank&quot; betalingsverkeer rente sparen spaar" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1502" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="effectenbeurs aandelen* aandeel* belegging* optieregeling* beurs* dividend* koersval koersstijging koersdaling hedgefund* optiehandel optiebeurs &quot;short selling&quot; AFM &quot;Autoriteit Financiële Markten&quot; AEX damrak" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1504" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="hypotheek* hypotheken* krediet* CDF &quot;credit default swap*&quot; subprime alt-a" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1505" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="verzekeringsmaatschappij* verzekeraar* verzekerings* woekerpolis* beleggingsverzekering* autoverzekering* brandverzekering* opstalverzekering*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1507" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="faillisement failliet bankroet &quot;uitstel betaling&quot;~2 &quot;gedwongen verkoop&quot; opheffingsuitverkoop &quot;rode cijfers&quot; &quot;diep rood&quot;~3 verliesgevend*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1510" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="inspraak medezeggenschap" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1518" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="&quot;wet/wetten/wetgeving/regel*/beleid/toezicht/structuurregeling* BV*/NV*/stichting*/vereniging*/vennootschap*/maatschap*/holding*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1520" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="kartel anti-kartel* NMA &quot;Nederlandse Mededingingsautoriteit&quot; &quot;toezicht/controle/goedkeuring/afkeuring fusie*/overname*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1521" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="mkb &quot;midden kleinbedrijf&quot;~3 bedrijfsopvolging &quot;middelgro* bedrij*&quot;~3 retail* horeca detailhandel bouwsector aannemersbedrij* schildersbedrijf stukadoorsbedrijf accoutantskantoor boekhoudkantoor" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1522" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="auteursrecht databankrecht* databaserecht* copyright octrooi* patent* reproductierecht* &quot;intellectue* eigendom*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1524" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="toerisme* reisorganisatie* vakantiebestemming vakantierei* vliegvakantie recreatie*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1525" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="consument* klant* reclamecode* &quot;wetgeving/regel*/voorschrift*/klacht* reclame*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1526" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="gokverslaving gokhal automatenhal* gameverslaving casino staatsloterij loterij" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1597" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="jaarcijfer* jaarverslag kwartaalcijfers kwartaalverslag winstcijfer* verliescijfer* fusie* overname*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1599" />
+        <Simple name="GeneralCode" value="15" />
+        <Simple name="Text" value="koopmansgeest ondernemingszin &quot;aangaan uitdag*&quot;~10 ondernemersschap" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1600" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="defensie* leger* marine* krijgsmacht luchtmacht* landmacht* korporaal luitenant soldaat defensie-uitgaven defensiebeleid &quot;defensie/leger/krijgsmacht begroting/budget&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1602" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;Navo VN alliantie/partners&quot;~20 &quot;nederland* irak/uruzgan/libanon/ISAF/leger/betrekkingen/offensief/opbouw/hulpgeld*&quot;~10 peacekeeping* vredesbespreking* vredesoverleg veiligheidsbeleid" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1603" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="MIVD &quot;militaire inlichtingendienst*&quot; &quot;onderzoek parlement irak/afghanistan/uruzgan*&quot;~10 verhoormethode* oorlogshandeling* inlichtingen" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1604" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie/krijgsmacht begroting/budget/kosten/bezuiniging*/training*/oefen*/reorganisatie&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1605" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="nonproliferatie proliferatie* NPV &quot;verdrag/wapen* ontmanteling/ontwapening&quot;~10 wapenwedloop NOT (IAEA atoomagentschap)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1606" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="wapenexport &quot;conflictgebied*/dicator*/regime wapen*/verbod/importbeperking*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1608" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie personeels*/arbeidsomstandigheden/dienstweigeraar*/dienstplicht/nazorg/posttraumatisch*/bijstand&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1609" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="veteranen*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1610" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie aankoop/aanschaf*/wapensyste*/materieel/kruisraket*/straaljager*&quot;~20 JSF &quot;Joint Strike Fighter&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1611" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie/krijgsmacht gebouw*/oefenterrein*/eigendom&quot;~20 &quot;defensie/krijgsmacht sluiting&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1612" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="dienstplicht" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1614" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie/krijgsmacht/straaljager*/helikopter*/apache/chinook vervuiling/overlast/geluidsoverlast/lawaai&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1615" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;defensie/krijgsmacht/leger verdedig*/beveilig*/bescherm* burger/burgers&quot;~20 burgerbescherming landsverdediging" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1616" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;leger/krijgsmacht/defensie order/contract*/koop/aankoop/levering/bedrijfsleven/industrie&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1617" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;leger/krijgsmacht/defensie/ order/contract*/aanbesteding/koop/aankoop/levering&quot;~20 &quot;leger/krijgsmacht/defensie order/contract*/aanbesteding/koop/aankoop/levering toezicht/controle/discussie/debat/budget&quot;~20 JSF &quot;Joint Strike Fighter&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1619" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="vredesmissie opbouwmissie offensief ISAF Srebrenica &quot;Nederland* deelname/operatie/offensief/missie/jongens/soldaten/militair*/uitzending Uruzgan/Irak/Afghanistan/VN-missie/NAVO-missie&quot;~20 &quot;Uruzgan/Irak/Afghanistan parlement/Kamer&quot;~20 &quot;slachtoffer*/doden beschiet*/offensief&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1620" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;militair* vechtpartij/mishandel*&quot;~20 &quot;Erik O.&quot; &quot;Eric O.&quot; &quot;marine intimidatie&quot;~20 &quot;fregat Tjerk Hiddes&quot; Screbrenica" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1698" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="&quot;nieuw* wapensyste*&quot;~2 &quot;krijgsmacht/defensie ontwikkel*/onderzoek wapens/materieel&quot;~10 JSF &quot;Joint Strike Fighter&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1699" />
+        <Simple name="GeneralCode" value="16" />
+        <Simple name="Text" value="vredesmissie* wederopbouwmissie* opbouwmissie* VN NAVO &quot;militaire garde&quot; NOT (Nederland*)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1700" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="wetenschap* technologi* kennissamenleving wetenschapscommunicatie &quot;kennisuitwisseling wetenschap*/universiteit*&quot;~10 &quot;onderzoek/ruimtevaart stimulering/stimulans/subsidie*/impuls&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1701" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="ESA ruimtevaart* &quot;ontdekking heelal/plane*/supernova&quot; NOT &quot;NASA&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1704" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="adsl internetaansluiting* kabelinternet glasvezel &quot;glasvezel aanleg&quot;~10 spam computervirus* virusscanner beveiligingssoftware firewall malware internetveiligheid &quot;NWO/KNAW/TNO/wetenschap*/universiteit* subsidie/bevorderen/stimuler*&quot;~20 &quot;wetenschappelijk* tijdschrift*&quot; Science Lancet &quot;wetenschappelijk* onderzoek*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1705" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="&quot;ruimtevaart universiteit*/bedrijven/bedrijf/samenwerking/alliantie/invester*&quot;~50" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1706" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="OPTA telecom* telefonie kabelbedrij* &quot;telecom*/kabelbedrij* verzelfstandig/marktaande*/verko*/overname&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1707" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="&quot;mediabedrij*/mediaconcern*/media/uitgever*/krant*/dagblad*/tv/televisie/radio/omroep* marktaande*/zelfregulering/regulering/onafhankelijkh*/fusie*/overname**&quot;~10 kijkwijzer &quot;publieke omroep&quot; &quot;publiek* bestel&quot; &quot;STER reclame/sponsor*&quot;~10 &quot;commissariaat voor de media&quot; &quot;mediawet&quot; &quot;raad voor de journalistiek&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1708" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="geologie geologisch* weer*verandering* weer*omslag weersvoorspelling KNMI" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1709" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="adsl internetaansluiting* kabelinternet glasvezel &quot;glasvezel aanleg&quot;~10 spam computervirus* virusscanner beveiligingssoftware firewall malware internetveiligheid" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1798" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="&quot;NWO/KNAW/TNO/wetenschap*/universiteit* subsidie/bevorder*/stimuler*/beleid/plannen/begroting/steun&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1799" />
+        <Simple name="GeneralCode" value="17" />
+        <Simple name="Text" value="wetenschap* Science Lancet onderzoek* &quot;kalibr* meetinstrument*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1800" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="buitenlands*/internationa*/globalisering/globalisatie/wereldwijd* handel* &quot;buitenlands*/internationa*/europees/EU handelsbeleid&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1802" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="GATT WTO globalis* handelsakkoord handelsverdrag &quot;EU handel*&quot;~10 wereldhandel* &quot;WTO rellen/protest/oproer*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1803" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="export* handel* protectionis* betalingsbalans* goederenstroom*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1804" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="Nederland* investeringsklimaat/invest*~10 &quot;buitenland* investeringsklimaat/invest*&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1806" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="&quot;accountant* regels/wetgeving/toezicht&quot;~10 &quot;financie* toezicht*&quot; &quot;financie* wetgeving&quot; betalingsbalans handelsbalans concurrentiepositie concurrentiekracht" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1807" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="import importverbod &quot;import bevordering/regul*&quot;~10 handelsembargo protectionis*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1808" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="monetair* wisselkoers* muntkoers &quot;euro invoering/waarde/munt/koers&quot;~10 valuta" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1899" />
+        <Simple name="GeneralCode" value="18" />
+        <Simple name="Text" value="&quot;prijs/waarde grondstof*/voedsel/metaal/staal/rubber&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1900" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="buitenlandse zaken ontwikkelingssamenwerking ontwikkelingshulp buza ambassade* &quot;internationale rechtsorde&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1901" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="&quot;begroting/budget/besteding/besteden humanitair*/ontwikkelingshulp/ontwikkelingssamenwerking/hulpgeld*&quot;~20 &quot;EU/Nederland* humanitair*/ontwikkelingshulp/ontwikkelingssamenwerking/hulpgeld*&quot;~20 ontwikkelingshulp ontwikkelingssamenwerking hulpgeld &quot;humanitaire hulp*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1902" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="natuurbescherm* milieuvbescherm* milieuvervuil* ontbossing ontbossen klimaatconferentie* klimaattop* klimaatverdrag milieuwetgeving Kyoto bodemuitputting voedselcris* &quot;bescherm* ecosyste*/diersoort*&quot;~10 &quot;natuurlijke hulpbron*&quot; &quot;strijd/conflict grondstof*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1905" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="ontwikkelingsland* ontwikkelingsproblematiek &quot;ontwikkelingsland* droogte/honger/hongersnood/ziekte*/AIDS/cholera/malaria/epidemie*/voedselschaarste/natuurramp*/aardbeving*&quot;~20 NOT (Nederland EU)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1906" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="wereldbank IMF &quot;International Monetary Fund&quot; OESO wereldeconomie &quot;internationale financiële markt*&quot; &quot;kwijtscheld* schuld* ontwikkelingsland*&quot;~20 &quot;wereldbank/OESO/IMF benoeming&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1907" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="&quot;china betrekking*/diplomatiek*&quot;~10 &quot;china tibet/taiwan/kong&quot;~20 &quot;china groei/ontwikkeling/vooruitgang&quot;~10 &quot;communisme/communistisch* china&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1908" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Sovjet USSR &quot;Sovjet/USSR betrekking*/samenwerk*/diplomatiek*/economisch*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1909" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Oost-Europa &quot;Polen/roeme*/bulgarije/letland/litouwen/hongarije toetreding/onderhandeling*/EU&quot;~20 &quot;ijzeren gordijn val*&quot;~10 &quot;val Berlijnse/wende&quot;~10 &quot;Berlijnse Muur&quot; DDR" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1910" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="EGKS EEG EG EMU &quot;hervorming*/grondwet/uitbreiding/afdracht/invoering/lidmaatschap/Nederland* europese/EU&quot;~10 &quot;Truk* cypr* EU/europese&quot;~10 &quot;staatssecretaris voor Europese Zaken&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1911" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Afrika* &quot;Afrikaanse Unie&quot; &quot;Afrika*/Zimbabwe/Kenia/Sudan/Soedan/Congo/Zaire/Egypte/Kameroen/Ethiop*/Somali* droogte/honger/burgeroorlog*/politiek*/economisch*/hulp/noodhulp/ontwikkelingshulp/hulpproject/hulpgeld/ziekte*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1912" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Zuid-Afrika &quot;Zuid-Afrika/Pretoria/Kaapstad/Johannesburg apartheid/sanctie*/ANC/politiek/regering/oppositie/blanken/rassenscheiding*/AIDS/township&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1913" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Noord-Europa West-Europa Zuid-Europa Scandin* Benelux NOT (EU &quot;Europese Unie&quot;)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1914" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Latijns-Amerika Zuid-Amerika &quot;Zuid-Amerika hulp/economisch/wereldbank/politiek/dictat*/democratie/staatsgeweld/onderdrukking/democratisch*/rebel*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1915" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Suez-crisis Suezkanaal Panamakanaal &quot;Suezkanaal/Panamakanaal/Panama*/kanaal/rivier schip/schepen/scheepvaart*/vaarroute/verdrag/contract/overeenkomst&quot;~20 vaarrroute zeeroute zeeverbinding" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1916" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="VS Amerika* Canada Noord-Amerika grootmacht &quot;buitenlands beleid&quot; &quot;diplomatie&quot; &quot;VS/Amerika*/Canada/Canades* Nederland* betrekking*&quot;~20 &quot;VS/Amerika*/Canada/Canades* economi*/Wall/congres/senaat/gerechtshof/stad/dorp&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1919" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="pacifisch* austral* japan* azie aziat* korea &quot;pacifisch*/austral*/japan*/azie/aziat*/korea economi*/betrekking*/diplomatie/grootmacht*/politiek/dictat*/gerechtshof&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1920" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Israël Palestijn* Syrië Iran Irak Libanon Jordanië Golf-oorlog golfregio &quot;Israël/Palestijn*/Syrië/Iran/Irak/Libanon/Jordanië zeldmoordaanslag*/aanslag*/terrorist*/geweld/beschieting*/oorlog/raket*/vergelding*/conflict*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1925" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Amnesty &quot;human rights watch&quot; mensenrechten &quot;mensenrechten schending*/doodstraf*/marteling*/rechtspraak/procesgang/gevangenis*/godsdienstvrijheid&quot;~20 &quot;internationaal strafhof&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1926" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="VN VN-gezant VN-commissaris VN-veiligheidsraad Unesco &quot;Rode Kruis&quot; Unicef AzG &quot;Artsen zonder Grenzen&quot; &quot;VN-veiligheidsraad/Unesco/Unicef/AzG/VN-gezant Nederlandse/Nederlander/resolutie&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1927" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="kaping* vliegtuigkaping* treinkaping* moslimterrorisme terrorisme terrorist* aanslag* bomaanslag* zelfmoordaanslag* terreurdreiging &quot;terrorist* geweld/moord/dreiging/ontvoering*&quot;~10 IRA ETA Kaida Qaeda &quot;Jamia Islamia&quot; &quot;9/11&quot; &quot;Madrid/Londen/Mumbai/Bombay aanslag*/bomaanslag&quot;~10 &quot;gogh moord&quot;~10 terrorismeproces terreurproces" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1929" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="grenscontrole* grensbewaking* paspoortcontrole* paspoort* douane* &quot;Nederlandse diplomatieke dienst&quot; diplomaten diplomaat diplomatie &quot;staatsburgers buitenland ambassades&quot;~10 &quot;Nederland* ambassade*&quot;~5 schengen &quot;Nederland* buitenlandse zaken&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1930" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Indonesië* Indonesisch* &quot;Indonesië* economi*/godsdienst*/religie/bevolkingsgroep*/politiek/betrekking*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1931" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="Suriname Paramaribo Willemstad &quot;Nederlandse Antillen&quot; Saba Bonaire Curaçao &quot;Sint Eustatius&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="1999" />
+        <Simple name="GeneralCode" value="19" />
+        <Simple name="Text" value="&quot;buitenlands* zaken&quot; buza ontwikkelingshulp ontwikkelingssamenwerking" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2000" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="democratie &quot;openbaar bestuur&quot; overheidsapparaat &quot;omvang/grootte overheid/overheidsapparaat/regering/kabinet/gemeente*/ambtenarenapparaat&quot;~10 deregulering &quot;1-procentsoperatie&quot; ambtenarenapparaat" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2001" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="gemeenten gemeentes rijksoverheid &quot;provincie*/overheid/rijk/rijksoverheid/gemeentes/gemeenten bestuurlijke verhouding*&quot;~20 gemeentefinanciën gemeentewet gemeentefonds gemeenteraden gedeputeerden provinciale &quot;provincie*/overheid/rijk/gemeentes/gemeenten decentralisatie/centralisatie/herindeling*/bestuursniveau*/begroting*&quot;~20 &quot;gemeentes/gemeenten uitkering*/sociale/bevoegdheden&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2002" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;efficiëntie overheid/gemeenten/gemeentes/rijk/provincie*&quot;~20 &quot;terugdringen/verminderen regels/regeldruk/wetten/wetgeving/bureaucratie&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2003" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="PTT TPG postmarkt postbedrij* &quot;postkanto* sluiten/sluiting&quot;~10 &quot;PTT/TPG gouden aandeel&quot;~20 &quot;postmarkt*/post/postsector liberalisering/liberalisatie/vrijgev*/hervorming*/privatise*&quot;~20 NOT (TNT)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2004" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="ambtenarenbond* overheidspersoneel &quot;ambtena* cao/ontslag*/bezuinig*/staking/acties&quot;~20 NOT (ABP militair* PTT postbode*)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2005" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="benoeming/beëdiging/installatie parlement*/Kamerleden/Kamerlid/Kamervoorzitter/formateur/informateur/gedeputeerde*/koningin/wethouder*/burgemeester*/raadsleden/raadslid~20 NOT (buitenland president)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2006" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="lintjesregen lintje &quot;koninklijke onderscheiding/lintje**&quot; &quot;ridder Oranje-Naussau&quot;~5 herinneringsmunt* NOT (&quot;militaire onderscheiding&quot;)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2007" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="rijksinkoop &quot;rijk/overheid/rijksoverheid contract*/aanbesteding*/uitbesteding*/afstoten/fraude*&quot;~20 &quot;europese aanbesteding&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2008" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;rijksoverheid/rijk/overheid overheidsgebouw*/staatseigendom*&quot;~20 rijksgebouwendienst &quot;overheidsaande* verkoop/verkopen/bedrijven/bedrijf&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2009" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="belastingdienst belastingaangifte* belastingontduiking belastingfraude &quot;belastingdienst functione*/kritiek/problemen/wanbeleid/ict&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2010" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;minister/ministers/parlementslid/parlementsleden/Kamerlid/politicus/politici schandalen/schandaal/affaire/vervolging/strafrechtelijk*/fraude*&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2011" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="dualisme monisme &quot;duaal bestel/stelsel&quot; &quot;monistisch stelsel/bestel&quot; monistisch* &quot;parlement regering/kabinet verhouding*&quot;~10 &quot;kabinet/regering/staatssecretaris*/minister/ministers/premier/minister-president ontslag/aftreden/afgetreden/opstappen&quot;~20 kabinetscrisis kabinetscrises demissionair* formatiebespreking* kabinetsformatie informateur formateur &quot;ministeriële verantwoordelijkheid&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2012" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;parlementsverkiezing*/gemeenteraadsverkiezing*/referendum/referenda/verkiezingscampagne*/kiescommissie* provinciale/partijfinanciering/regels/wet/wetgeving/kandidaatstelling/donatie*&quot;~20 verkiezingsprogramma* partijfinanciering kieswet" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2013" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="volkstelling bevolkingsregister" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2014" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;Brussel hoofdstad/vestiging*/Unie/EU/parlement&quot;~10 &quot;Unie Brussel&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2015" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;rijksoverheid/rijk/overheid/gemeenten/gemeentes/provincie* aangeklaagd/aanklagen/aanklacht/aangifte/rechtsza*/claim*/schadevergoeding*&quot;~20 NOT (belastingaangifte* &quot;belastingdienst aangifte&quot;~10)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2016" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;provincie*/gemeenten/gemeentes/gemeentebestuur/provinciebestuur/burgemeester*/wethouder*/gedeputeerde regulering/toezicht/controle/reguleren/decentralisatie/centralisatie&quot;~20 NOT (buitenland Servië peking)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2017" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;bestuurlijke vernieuwing*&quot; &quot;gekozen burgemeester&quot; burgemeestersreferendum &quot;gekozen formateur&quot; &quot;staatkundige hervorming*&quot; &quot;staatkundige vernieuwing*&quot; &quot;commissie bestuurlijke vernieuwing&quot;~20 &quot;dualisme bestuurlijke vernieuwing*&quot;~20 &quot;rechtstreeks gekozen/kiezen premier/minister-president/burgemeester*&quot;~20 &quot;vernieuw*/aanpassing/aanpassen/veranderen kiesstelsel&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2018" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="rampenbestrijding* &quot;coördinatie/oefening/onderzoek ramp*&quot;~20 &quot;ramp* hulpverlen*/politie/brandweer/leger/bestuur/dijk*&quot;~20 NOT (tsunami aardbeving*)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2030" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;nationale feestdag*&quot; &quot;vakantie regio&quot;~10 schoolvakantie* vakantiedagen &quot;feestdag*/vakantiedag*/vakantie discussie/debat/kritiek/moslim*/islamitisch*/christelijk*&quot;~20 NOT (buitenland pakistan parijs frankrijk bomaanslag aanslag* republikeinen amerikanen VS europa)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2031" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;koningin Beatrix&quot;~10 koningshuis &quot;koning* kabinetsformatie/formatie&quot;~20 &quot;koningin/Beatrix begrafenis*/overlijden/overleden/huwelijk*/trouwen&quot;~20" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2033" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="staatshervorming" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2097" />
+        <Simple name="GeneralCode" value="20" />
+        <Simple name="Text" value="&quot;vvd/d66/groenlinks/gl/christenunie/cu/cda/pvda/pvv/sgp/sp/lpf/fortuyn/ln/fractie/partij ruzie*/strijd/strijden/competitie/kritiek/conflict*&quot;~20 NOT (verkiezingen parlementsverkiezingen campagne vervolging)" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2100" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="streekplan* bestemmingsplan* &quot;ontwikkeling/ontwikkelen/inrichting/inrichten landschap/natuur&quot;~10 watermanagement waterbeheer &quot;reconstructie platteland&quot;~10 kadaster &quot;ruimtelijke ordening&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2102" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="&quot;nationa* park*&quot;3 herdenkingsmonument* &quot;Hoge Veluwe&quot; &quot;aankoop natuurgebied*&quot;~10 staatsbosbeheer &quot;groot wild&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2103" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="&quot;natuur* hulpbron&quot;~3 natuurgebieden openluchtrecreatie" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2104" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="waterbeheer waterschap* dijkgraaf" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2107" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="erfpacht &quot;voorkeursrecht gemeente*&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2199" />
+        <Simple name="GeneralCode" value="21" />
+        <Simple name="Text" value="ontgronding* &quot;grond onteigenen&quot;~10 &quot;voorkeursrecht gemeente/gemeenten/gemeentes&quot;~50" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2301" />
+        <Simple name="GeneralCode" value="23" />
+        <Simple name="Text" value="cultuur kunst" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2302" />
+        <Simple name="GeneralCode" value="23" />
+        <Simple name="Text" value="literatuur boek* roman* proza* poëzie* dicht*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2304" />
+        <Simple name="GeneralCode" value="23" />
+        <Simple name="Text" value="radio* televisie* &quot;audio-visue* media&quot;~10" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2304" />
+        <Simple name="GeneralCode" value="23" />
+        <Simple name="Text" value="dagblad* krant*" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2310" />
+        <Simple name="GeneralCode" value="23" />
+        <Simple name="Text" value="museum musea rijksmuseum kunstpatrimonium &quot;cultureel erfgoed&quot;" />
+      </Properties>
+    </Complex>
+    <Complex>
+      <Properties>
+        <Simple name="SpecificCode" value="2400" />
+        <Simple name="GeneralCode" value="24" />
+        <Simple name="Text" value="gemeente* provincie*" />
+      </Properties>
+    </Complex>
+  </Items>
+</Collection>

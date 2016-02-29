@@ -1,0 +1,4 @@
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\bin\Release\TextClassification.Model.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\bin\Release\TextClassification.Model.pdb
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\obj\Release\TextClassification.Model.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\obj\Release\TextClassification.Model.pdb

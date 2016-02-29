@@ -1,0 +1,213 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.dll.config
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\EntityFramework.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\EntityFramework.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\AForge.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\AForge.Math.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\AForge.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\AForge.Math.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.dll.config
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Service.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\AForge.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\AForge.Math.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.exe
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\EntityFramework.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\AForge.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\AForge.Math.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Lucene.Net.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\obj\Debug\TextClassification.Service.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Service\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.dll.config
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.Math.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\ejml-0.23.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.Runtime.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\javax.json.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\joda-time.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\jollyday.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\slf4j-api.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\stanford-corenlp-3.6.0.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.exe
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\xom.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\EntityFramework.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\office.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.Math.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\bin\Debug\office.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\x64\SQLite.Interop.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\x86\SQLite.Interop.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.dll.config
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Service.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.Math.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\ejml-0.23.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.Runtime.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\javax.json.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\joda-time.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\jollyday.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\slf4j-api.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\stanford-corenlp-3.6.0.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Common.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Model.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Repository.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.exe
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.exe
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\xom.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\EntityFramework.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\System.Data.SQLite.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\Centivus.EnglishStemmer.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\office.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\LatentSemanticAnalysis.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Common.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Model.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Repository.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\TextClassification.Tf_Idf_2.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\AForge.Math.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\Polenter.SharpSerializer.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\System.Data.SQLite.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\bin\Debug\office.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Service\obj\Debug\TextClassification.Service.pdb

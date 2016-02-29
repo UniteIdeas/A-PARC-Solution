@@ -1,0 +1,20 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Model\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Model\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Model\obj\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Model\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Model\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Model\bin\Debug\TextClassification.Model.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Model\bin\Debug\TextClassification.Model.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Model\obj\Debug\TextClassification.Model.pdb

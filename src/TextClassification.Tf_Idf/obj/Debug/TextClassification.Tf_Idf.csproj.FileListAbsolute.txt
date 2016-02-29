@@ -1,0 +1,20 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.exe
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Tf_Idf\bin\Debug\TextClassification.Tf_Idf.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.exe
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Tf_Idf\obj\Debug\TextClassification.Tf_Idf.pdb

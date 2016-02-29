@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://Web.FrogProxy/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="FrogProxyWebService" targetNamespace="http://Web.FrogProxy/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://192.168.80.135:8080/FrogProxy/FrogProxyWebService?xsd=1" namespace="http://Web.FrogProxy/" />
+    </xsd:schema>
+  </types>
+  <message name="GetStem">
+    <part name="parameters" element="tns:GetStem" />
+  </message>
+  <message name="GetStemResponse">
+    <part name="parameters" element="tns:GetStemResponse" />
+  </message>
+  <portType name="FrogProxyWebService">
+    <operation name="GetStem">
+      <input wsam:Action="http://Web.FrogProxy/FrogProxyWebService/GetStemRequest" message="tns:GetStem" />
+      <output wsam:Action="http://Web.FrogProxy/FrogProxyWebService/GetStemResponse" message="tns:GetStemResponse" />
+    </operation>
+  </portType>
+  <binding name="FrogProxyWebServicePortBinding" type="tns:FrogProxyWebService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="GetStem">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FrogProxyWebService">
+    <port name="FrogProxyWebServicePort" binding="tns:FrogProxyWebServicePortBinding">
+      <soap:address location="http://192.168.80.135:8080/FrogProxy/FrogProxyWebService" />
+    </port>
+  </service>
+</definitions>

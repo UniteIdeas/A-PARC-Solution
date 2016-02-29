@@ -1,0 +1,5 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\bin\x64\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\bin\x64\Debug\TextClassification.Tf_Idf.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\x64\Debug\TextClassification.Tf_Idf.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\x64\Debug\TextClassification.Tf_Idf.exe
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Tf_Idf\obj\x64\Debug\TextClassification.Tf_Idf.pdb

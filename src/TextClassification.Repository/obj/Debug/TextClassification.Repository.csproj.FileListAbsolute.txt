@@ -1,0 +1,52 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\obj\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Repository.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Model.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Model.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\x64\SQLite.Interop.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\x86\SQLite.Interop.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Repository.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Repository.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\EntityFramework.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Model.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\TextClassification.Model.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\bin\Debug\System.Data.SQLite.xml
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Repository\obj\Debug\TextClassification.Repository.pdb

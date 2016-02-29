@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextClassification.Common.RandomProvider" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Common.Extension.ArrayValueComparer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextClassification.Common.Extension.BasicExtensions" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Common.Extension.StringExtensions" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.AnpArticle" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Average" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.BagOfWords" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.BagOfWordsCombinedLabels" Collapsed="true">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.ClassifiedText" Collapsed="true">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.DataSet" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.DoubleWord" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.FrogWord" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.LuceneQuery" Collapsed="true">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Measure" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Paragraph" Collapsed="true">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Prediction" Collapsed="true">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.QueenSpeech" Collapsed="true">
+    <Position X="15" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Sentence" Collapsed="true">
+    <Position X="16.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Similarity" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Statistics" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Word" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.WordScore" Collapsed="true">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.WordWeight" Collapsed="true">
+    <Position X="16.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Model.Statistic.CodePerParagraph" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Repository.BaseRepository" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Repository.FrogWordRepository" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Repository.WordWeightRepository" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Repository.Context.SqLiteContext" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.ChiSquaredService" Collapsed="true">
+    <Position X="27.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.L2Normalization" Collapsed="true">
+    <Position X="27.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.LatentSemanticAnalysisService" Collapsed="true">
+    <Position X="29" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.LuceneService" Collapsed="true">
+    <Position X="12.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.SumNormalization" Collapsed="true">
+    <Position X="32.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.TfIdfService" Collapsed="true">
+    <Position X="25.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.VectorService" Collapsed="true">
+    <Position X="29" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.WordWeightService" Collapsed="true">
+    <Position X="32.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.BaseClassificationService" Collapsed="true">
+    <Position X="9.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassificationSimilarityService" Collapsed="true">
+    <Position X="6.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassificationTfIdfService" Collapsed="true">
+    <Position X="10.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassificationWordWeightsService" Collapsed="true">
+    <Position X="13" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassifierAnpService" Collapsed="true">
+    <Position X="7.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassifierNaiveBayesService" Collapsed="true">
+    <Position X="15.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassifierTFIDFTweakedService" Collapsed="true">
+    <Position X="1.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassifierTfIdfWithKeyWordsService" Collapsed="true">
+    <Position X="4" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.ClassifierUsingParagraphService" Collapsed="true">
+    <Position X="8.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.FrogWordService" Collapsed="true">
+    <Position X="27.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Classification.StemService" Collapsed="true">
+    <Position X="30.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Dataset.BaseDataSet" Collapsed="true">
+    <Position X="11.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.DataSet.Excel.BagOfWordsService" Collapsed="true">
+    <Position X="17.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Dataset.Excel.BaseExcel" Collapsed="true">
+    <Position X="11.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Dataset.Excel.ClassifiedQueenSpeechService" Collapsed="true">
+    <Position X="10.5" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Dataset.Text.BaseText" Collapsed="true">
+    <Position X="5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Dataset.Text.QueenSpeechService" Collapsed="true">
+    <Position X="2.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.DataSet.Text.TextService" Collapsed="true">
+    <Position X="5" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Frog.FrogClient" Collapsed="true">
+    <Position X="32.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.FrogProxyWebService.GetStemRequest" Collapsed="true">
+    <Position X="29" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.FrogProxyWebService.GetStemRequestBody" Collapsed="true">
+    <Position X="30.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.FrogProxyWebService.GetStemResponse" Collapsed="true">
+    <Position X="32.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.FrogProxyWebService.GetStemResponseBody" Collapsed="true">
+    <Position X="25.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.FrogProxyWebService.FrogProxyWebServiceClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextClassification.Service.Statistic.BagOfWordsAnalysisService" Collapsed="true">
+    <Position X="25.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Statistic.CodeAnalysisService" Collapsed="true">
+    <Position X="29" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Statistic.CodePerParagraphService" Collapsed="true">
+    <Position X="30.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Statistic.TopScoringWordsService" Collapsed="true">
+    <Position X="27.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Service.Statistic.WordService" Collapsed="true">
+    <Position X="30.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Tf_Idf.NGram" Collapsed="true">
+    <Position X="26.5" Y="15" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Tf_Idf.PorterStemmer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="15" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextClassification.Tf_Idf.StopWordsHandler" Collapsed="true">
+    <Position X="26.5" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Tf_Idf.TFIDFMeasure" Collapsed="true">
+    <Position X="28.25" Y="16" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TextClassification.Common.Constants" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="TextClassification.Service.FrogProxyWebService.FrogProxyWebService" Collapsed="true">
+    <Position X="2.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="TextClassification.Service.FrogProxyWebService.FrogProxyWebServiceChannel" Collapsed="true">
+    <Position X="2.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="TextClassification.Tf_Idf.StemmerInterface" Collapsed="true">
+    <Position X="26.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

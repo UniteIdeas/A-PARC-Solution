@@ -1,0 +1,23 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\bin\Debug\TextClassification.Common.dll.config
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\TextClassification.Common\obj\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.dll.config
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.dll.config
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\bin\Debug\TextClassification.Common.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\TextClassification.Common\obj\Debug\TextClassification.Common.pdb

@@ -1,0 +1,8 @@
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Release\TextClassification.Service.csprojResolveAssemblyReference.cache
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Release\TextClassification.Service.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Release\TextClassification.Service.pdb
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Release\Microsoft.Office.Interop.Excel.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Release\TextClassification.Model.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\bin\Release\TextClassification.Model.pdb
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Release\TextClassification.Service.dll
+c:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\TextClassification.Service\obj\Release\TextClassification.Service.pdb

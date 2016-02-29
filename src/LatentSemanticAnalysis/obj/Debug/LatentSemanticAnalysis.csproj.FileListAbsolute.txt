@@ -1,0 +1,19 @@
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\Visual Studio 2012\Projects\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Dropbox\Thesis\CSharp\TextClassification\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.pdb
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.dll
+C:\Users\Wouter\Documents\GitHub\linkssdgs\src\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\LatentSemanticAnalysis\bin\Debug\LatentSemanticAnalysis.pdb
+D:\Users\Wouter\Documents\Github\linkssdgs\src\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.csprojResolveAssemblyReference.cache
+D:\Users\Wouter\Documents\Github\linkssdgs\src\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.dll
+D:\Users\Wouter\Documents\Github\linkssdgs\src\LatentSemanticAnalysis\obj\Debug\LatentSemanticAnalysis.pdb
